@@ -1,10 +1,10 @@
 {
   "name": "@pattern-lab/engine-twig-php",
   "description": "The Twig PHP engine for Pattern Lab Node",
-  "version": "5.14.0",
+  "version": "5.14.0-nothing.0",
   "main": "lib/engine_twig_php.js",
   "dependencies": {
-    "@basalt/twig-renderer": "0.13.1",
+    "@basalt/twig-renderer": "https://github.com/NothingAG/twig-renderer/releases/download/3.0.0-nothing.1/basalt-twig-renderer-3.0.0-nothing.1.tgz",
     "@pattern-lab/core": "^5.14.0",
     "chalk": "^4.0.0",
     "fs-extra": "0.30.0"
